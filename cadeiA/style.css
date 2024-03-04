@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap')
+
 :root{
     --cor-de-fundo: #000000;
     --verde: #26ff00;
     --branco: #ffffff;
     --botao-ativo: #10770d;
-    --batao-inativo: rgba(82, 81, 81, 0.5);
+    --botao-inativo: rgba(82, 81, 0.5);
     --texto-fundo: rgb(33, 37, 29);
 }
+
+body{
+    background-color: #000000;
+    color: var(--branco);
+    font-family: "Caveat", cursive;
+}
+
+ 
