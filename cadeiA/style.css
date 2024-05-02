@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap')
 
 :root{
-    --cor-de-fundo: #000000;
+    --cor-de-fundo: #dddddd;
     --verde: #26ff00;
     --branco: #ffffff;
     --botao-ativo: #10770d;
@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: #000000;
+    background-color: #dddddd;
     color: var(--branco);
     font-family: "Caveat", cursive;
 }
